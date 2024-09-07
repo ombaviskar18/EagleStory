@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EagleStory/static/css/main.adb0cf27.css",
+    "main.js": "/EagleStory/static/js/main.df9ec5f3.js",
+    "static/media/logo.png": "/EagleStory/static/media/logo.5a4674a8e1f9820bbf1a.png",
+    "index.html": "/EagleStory/index.html",
+    "main.adb0cf27.css.map": "/EagleStory/static/css/main.adb0cf27.css.map",
+    "main.df9ec5f3.js.map": "/EagleStory/static/js/main.df9ec5f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb0cf27.css",
+    "static/js/main.df9ec5f3.js"
+  ]
+}
