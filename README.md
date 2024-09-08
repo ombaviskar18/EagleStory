@@ -4,11 +4,7 @@
 - open the project folder in visual studio code (or your preffered code editor)
 
 ## Remove the following line from the top of package.json
--   "homepage": "https://ombaviskar18.github.io/EagleStory/"
-
-### Install node packages 
-Right click on the project folder and "open new integrated terminal"
-- run `npm i` in the terminal
+-   "Main": "https://ombaviskar18.github.io/EagleStory/"
 
 ### Run the app
 - run `npm start` in the terminal, it should open a new localhost
@@ -68,4 +64,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Eagle Story usinf SketchFab and threefiber
+# Eagle Story using SketchFab and threefiber
